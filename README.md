@@ -11,3 +11,7 @@ This is a tool for cell counting, developed based on MATLAB 20222b. It is curren
 If you have any questions, you can ask me via email or on github(202221061054@mail.bnu.edu.cn), but I usually have a lot of work, so my replies could be a little bit slow...
 
 我用夸克网盘分享了「Cell Counting Network先行体验版」 链接：https://pan.quark.cn/s/9fcc55fae439
+
+2023/10/24 功能
+完善了任意角度对图谱进行切片的显示功能，并且优化了切片速度。但是注意，本软件针对冠状切进行了专门优化，矢状切和水平切用起来会麻烦一点。
+![Image text](https://github.com/StandardExpert/Cell-Counting-Network/blob/main/2%20%E5%AF%B9%E9%BD%90%E5%9B%BE%E8%B0%B1%E4%BB%BB%E6%84%8F%E8%A7%92%E5%BA%A6%E5%88%87%E7%89%87.png)
